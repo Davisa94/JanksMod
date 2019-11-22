@@ -1,0 +1,14 @@
+{
+"janksMod:CommonPower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["You applied #b", " keyword.", " keywords."]
+},
+"janksMod:RarePower": {
+        "NAME": "Placeholder Power",
+        "DESCRIPTIONS": ["At the start of your turn, TOUCH #b", " enemy." , " enemies."]
+},
+"janksMod:FrostBite": {
+        "NAME": "FrostBite",
+        "DESCRIPTIONS": ["At the start of the turn, deal damage equal to the amount of Frostbite applied"]
+}
+}
